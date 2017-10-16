@@ -1,12 +1,14 @@
+
 ## Calabash Sandbox
+
+The `calabash-sandbox` tool is no longer maintained. You can still use the
+sandbox, but the ruby version and the base Gemfile will not be updated.
+To keep your gems up to date, use bundler and Gemfile.
 
 We recommend that you use rbenv installed with homebrew.
 
 https://github.com/calabash/calabash-ios/wiki/Ruby-on-MacOS
 
-The `calabash-sandbox` tool is no longer maintained. You can still use the
-sandbox, but the ruby version and the base Gemfile will not be updated.
-To keep your gems up to date, use bundler and Gemfile.
 
 ```
 $ cd ~/my/project
